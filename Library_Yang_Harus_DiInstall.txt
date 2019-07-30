@@ -1,0 +1,4 @@
+1. PyQt4
+2. NLTK
+3. Textblob
+4. NaiveBayesClassifier
